@@ -1,0 +1,22 @@
+{
+  "name": "rule-validation-api",
+  "version": "1.0.0",
+  "description": "A simple rule validation api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phemmylintry/rule-validation-api.git"
+  },
+  "author": "phemmylintry@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phemmylintry/rule-validation-api/issues"
+  },
+  "homepage": "https://github.com/phemmylintry/rule-validation-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
